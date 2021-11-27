@@ -124,7 +124,7 @@ models:
         options:
           - label: page
             value: page
-          - label: contact
+          - label: kontakt
             value: contact
   service:
     type: page

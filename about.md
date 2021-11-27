@@ -1,7 +1,7 @@
 ---
-title: About
+title: O mně
 layout: page
-description: About
+description: O mně
 bodyClass: page-about
 ---
 
@@ -30,8 +30,8 @@ esse iam feres mortis Plurima.
 ## Postquam tamen
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+et pedes miratur erat animaeque. Tellus adfmonuit humanam funes, sagittis et
+licet! Inserui quamvis Clymeni.rrr
 
 - Parens est studiisque interea
 - Pro istis mediis carnes iste nec imperat
