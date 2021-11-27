@@ -14,4 +14,4 @@ Přes 30 let se bavím češtinou. A to každodenně. Jako učitelka jsem nauče
 
 Korektury dělám s pečlivostí a láskou. Nemusíte se stydět mě oslovit, moc ráda spolupracuji s novými klienty. 
 
-Zmena
+
