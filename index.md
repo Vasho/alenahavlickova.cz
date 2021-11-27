@@ -13,3 +13,5 @@ show_call_box: true
 Přes 30 let se bavím češtinou. A to každodenně. Jako učitelka jsem naučená najít každou chybu a v tom můžu pomoci i Vám.
 
 Korektury dělám s pečlivostí a láskou. Nemusíte se stydět mě oslovit, moc ráda spolupracuji s novými klienty. 
+
+Zmena
